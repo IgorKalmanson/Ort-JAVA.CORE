@@ -14,7 +14,6 @@ public class main {
             	if (array[i]<20) summ = summ + array[i];
             	System.out.print(summ +" ");
             }
-            System.out.println();
 }
 
 }
